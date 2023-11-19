@@ -13,8 +13,7 @@
 
 ### Medium Data sets (1000) ###
 1. Open App.py
-2. Change the range in variable "numbers" from (1,1001) to (1,10001)
-3. Run the Program
+2. Run the Program
 
 ### Large Data sets (10000) ###
 1. Open App.py
